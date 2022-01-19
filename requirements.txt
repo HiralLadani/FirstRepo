@@ -1,0 +1,5 @@
+this is chat Application
+type option
+language option
+emoji
+video calling
